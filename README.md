@@ -11,4 +11,4 @@ The repository is structured as follows:
 - GNN_test.ipynb - colaboratory file containing the test class.
 - train_split.txt - txt file containing the indexes of the training data
 - val_split.txt - txt file containing the indexes of the validation data
-- Visualization_functions.py - Python file containing all the visualization functions
+- Visualization_functions.py - python file containing all the visualization functions
