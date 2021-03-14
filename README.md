@@ -1,4 +1,4 @@
-Repository Structure
+**Repository Structure**
 
 The repository is structured as follows:
 - experiments - folder containing all the experiments carried out
