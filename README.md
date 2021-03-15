@@ -14,4 +14,4 @@ The repository is structured as follows:
 - val_split.txt - txt file containing the indexes of the validation data
 - Visualization_functions.py - python file containing all the visualization functions.
 - Tensorboard.ipynb - colaboratory file containing the plots.
-- Plot-Result_graphics.ipynb - colaboratory file for ploting graphics
+- Plot_Result_graphics.ipynb - colaboratory file for ploting graphics
