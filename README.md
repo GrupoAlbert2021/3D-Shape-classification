@@ -1,7 +1,7 @@
 **Repository Structure**
 
 The repository is structured as follows:
-- Architectures - folder containing all the architectures models 
+- architectures - folder containing all the architectures models 
 - experiments - folder containing logs of all the experiments carried out
 - figures - folder containing all the plots (png).
 - Dataset.ipynb - colaboratory file containing the dataset retrieval and information
