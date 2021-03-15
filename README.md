@@ -1,6 +1,7 @@
 **Repository Structure**
 
 The repository is structured as follows:
+- README - README of the project
 - architectures - folder containing all the architectures models.
 - experiments - folder containing logs of all the experiments carried out.
 - figures - folder containing all the plots (png format).
